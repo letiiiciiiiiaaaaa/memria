@@ -13,10 +13,10 @@ body{
     width: 135px;
     height: 135px;
     cursor: pointer;
-    background-color: #e4fcff;
-    border: 1px solid #e4fcff;
-    border-collapse: collapse; 
     background-color: #e165a8;
+    border: 1px solid #e165a8;
+    border-collapse: collapse; 
+    background-color: #fffffd;
     border-radius: 15px;
 }
 
@@ -26,4 +26,11 @@ h2{
     color: #55acee;
     font-size: 32px;
     text-shadow: 10pxp 10px 10px #000000;
+}
+
+
+#safira{
+    width: 95%;
+    margin: 2px 3px;
+    align-items: center;
 }
